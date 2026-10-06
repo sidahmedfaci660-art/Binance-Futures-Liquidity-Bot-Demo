@@ -25,12 +25,13 @@
 
 Unlock full live-trading execution, complete source code, unconstrained API access, and instant delivery.
 
-- **Price:** $62.43 (USDT-TRC20)
+- **Price:** $17.00 (USDT-TRC20)
 - **Instant Delivery:** Full repository access + setup key upon payment.
 
 👉 **[Click Here to Purchase the Full Commercial License](https://www.getly.store/product/binance-futures-liquidity-whale-trap-bot)**
 
----
+---This is my account for anyone who wants to contact me or has questions about my product. 👇
+https://www.facebook.com/profile.php?id=61591170011248
 
 ## ⚠️ Important Notice
 No profit guarantees. No magic. Just solid, tested engineering. Always test on TESTNET & DRY_RUN first.
