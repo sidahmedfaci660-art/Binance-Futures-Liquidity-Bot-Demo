@@ -1,43 +1,24 @@
-# ⚡ Binance Futures Liquidity & Whale-Trap Bot (Demo)
+🔥 COMMERCIAL BINANCE FUTURES TRADING ENGINE 🔥
+💻 7,789 lines of battle-tested Python — ONE single file, ready to run
 
-> **Automated Market Liquidity Analysis & Whale Trap Detection Engine**
+⚡ What's inside:
 
-A high-performance algorithmic trading solution designed for Binance USDT-M Futures. Built with robust safety protocols, risk management controls, and real-time order book analysis.
+🧠 Multi-layer signal engine — BOS/retest, liquidity sweeps, reversal detection, trend-riding
+📊 Kalman filter (fair-price line + crash guard) + Hurst Exponent market regime detection
+💰 Fractional Kelly position sizing — live compounding growth from your real balance
+🛡️ Dynamic SL/TP (structure/ATR based) + staggered profit protection + Trailing Stop
+🚨 Circuit Breaker — auto-pause after consecutive losses or daily drawdown limits
+🔄 Full crash-recovery — reconciles with real Binance state after any restart/internet drop
+🔐 Idempotent order system — zero duplicate trades, even on network errors
+📱 Full Telegram control — /status /balance /positions /stats /pause /close /closeall & more
+🧪 TESTNET + DRY_RUN modes — simulate before you risk a single dollar
+🔑 Built-in licensing system — Ed25519 signed, HWID lock + expiry support
+✅ 30 real end-to-end test scenarios — not just "trust me," actually verified
+📂 Full trade logging (JSONL + SQLite) — every decision, every reason, fully auditable
+🤖 Runs on Termux (Android) / Linux / Windows / VPS — 24/7
 
----
+⚠️ No profit guarantees. No magic. Just solid, tested engineering.
+🧪 Test on TESTNET & DRY_RUN first. Always.
 
-## 🎯 Key Features
-* **Whale Trap Detection:** Identifies artificial order book manipulation and liquidity walls.
-* **Smart Entry & Exit:** Algorithmic execution tailored for short-timeframe precision.
-* **Strict Risk Management:** Built-in stop-loss margins, maximum position sizing, and emergency liquidation protection.
-* **Termux & Linux Compatible:** Optimized for lightweight execution environments without memory leaks.
-
----
-
-## 📦 What's Included in this Demo Repository?
-This demo release contains the compiled core architecture (`1.3.2-DEMO`) allowing you to test the setup and evaluation pipeline before acquiring the full commercial license.
-
-* `main.py` - Core initialization module
-* `run_dry_run.sh` - Safe testing script (no real capital at risk)
-* `tests/` - Order safety & position sizing evaluation suite
-* `requirements.txt` & `install_termux.sh` - One-click environment set up
-
----
-
-## 🛒 Full Version & License Purchase
-
-To unlock live trading execution, full source configuration, and unrestricted API connectivity:
-
-* **Price:** $17.00 USD (USDT-TRC20)
-* **Instant Delivery:** Full repository access + setup key upon payment.
-
-👉 **[Click Here to Purchase Commercial License ($17)](#)** *(Link will be updated with Sellpass page)*
-
----
-
-## 🔒 Security & Verification
-* Verified syntax execution across Python 3.10+ environments.
-* Encrypted modular licensing pipeline.
-
-*Disclaimer: Cryptocurrency trading involves significant financial risk. Always test in dry-run mode before deploying live capital.*
-
+📩 DM for access
+ماريك في هذا
