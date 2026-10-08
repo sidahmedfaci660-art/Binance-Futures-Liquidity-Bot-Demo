@@ -29,9 +29,14 @@ Unlock full live-trading execution, complete source code, unconstrained API acce
 - **Instant Delivery:** Full repository access + setup key upon payment.
 
 👉 **[Click Here to Purchase the Full Commercial License](https://www.getly.store/product/binance-futures-liquidity-whale-trap-bot)**
+---
 
----This is my account for anyone who wants to contact me or has questions about my product. 👇
-https://www.facebook.com/profile.php?id=61591170011248
+## 📞 Contact & Support
+This is my account for anyone who wants to contact me or has questions about my product: 👇
 
+* **Name:** Sid Ahmed Islem Faci 
+* **Facebook:** [Profile Link](https://www.facebook.com/profile.php?id=61591170011248)
+* **WhatsApp:** +213 652 36 28 69
+* 
 ## ⚠️ Important Notice
 No profit guarantees. No magic. Just solid, tested engineering. Always test on TESTNET & DRY_RUN first.
